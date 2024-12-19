@@ -5,7 +5,7 @@ RALive web
 <strong>
 <samp>
 
-简体中文 · [English](README_en.md)
+[中文](Readme.md) · [English](README_en.md)
 
 </samp>
 </strong>
