@@ -1,4 +1,4 @@
 <h2 align="center">
 RALive Web
 </h2><br>
-English · [中文](README_zh.md)
+中文 · [English](README_en.md)
